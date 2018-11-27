@@ -1,10 +1,11 @@
 package calculator;
 
 public class Calculator extends SuperCalculator {
-	// Test Fork
+
+    // Test Fork
     private String resultAsText;
 
-    public final static int MULTIPLIER = 10;
+    public static final int MULTIPLIER = 10;
 
     public double addition(double a, double b) {
         // int i = a + b;
