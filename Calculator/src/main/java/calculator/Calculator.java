@@ -22,16 +22,12 @@ public class Calculator extends SuperCalculator {
     }
 
     public double subtraction(double a, double b) {
-        /**
-         * int i = a + b;
-         * 
-         * Und hier ein richtiger Kommentar!
-         */
-        return a - b;
+                return a - b;
     }
 
     public double division(double a, double b) {
         return a / b;
     }
 }
+
 
