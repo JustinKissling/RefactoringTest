@@ -9,8 +9,7 @@ public class Calculator extends SuperCalculator {
     @Override
     public double addition(double a, double b) {
         // int i = a + b;
-        // int j = a - b;
-        return a + b;
+                return a + b;
     }
 
     public double multiplikation(double a, double b, double c) {
@@ -34,4 +33,5 @@ public class Calculator extends SuperCalculator {
         return a / b;
     }
 }
+
 
