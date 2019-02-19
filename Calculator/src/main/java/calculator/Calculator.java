@@ -14,11 +14,7 @@ public class Calculator extends SuperCalculator {
     }
 
     public double multiplikation(double a, double b, double c) {
-        /*
-        int i = a + b;
-        Blubb
-        */
-        return a * b;
+                return a * b;
     }
 
     public double subtraction(double a, double b) {
@@ -34,4 +30,5 @@ public class Calculator extends SuperCalculator {
         return a / b;
     }
 }
+
 
